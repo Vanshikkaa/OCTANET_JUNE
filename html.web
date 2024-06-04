@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MomHub - Connect with Moms</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section class="party">
+    <h1>MomHub</h1>
+    <h2>A safe heaven for mothers</h2>
+    <h3>Where Moms share and support</h3>
+    <button class="get-started">Get Started</button>
+  </section>
+  <footer>
+    <div class="columns">
+      <div class="column">
+        <h3>Join a community</h3>
+        <p>Connect with other moms in your area and form strong bonds.</p>
+      </div>
+      <div class="column">
+        <h3>Discover new resources</h3>
+        <p>Access a wealth of information and resources for meetings.</p>
+      </div>
+      <div class="column">
+        <h3>Meeting plans</h3>
+        <p>Organize meetups and events with other moms for fun and support.</p>
+      </div>
+    </div>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
